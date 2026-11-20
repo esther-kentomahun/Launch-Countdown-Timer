@@ -2,9 +2,13 @@
 
 A responsive launch countdown timer built with React.js and Tailwind CSS. The application displays the remaining days, hours minutes, and seconds until a specified launch date, with a dynamic countdown that updates every second.
 
+## Preview
+
+![Launch Countdown Timer Preview](./screenshots/countdown-preview.png)
+
 ## Live Demo
 
-**Live Website:** [Add your Netlify deployment URL here]
+**Live Website:** []
 
 **Frontend Mentor Challenge:** https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-
 
@@ -29,15 +33,15 @@ The countdown automatically calculates the remaining time until the specified la
 
 ## Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| React.js | Building reusable UI components and managing application state |
-| JavaScript (ES6+) | Countdown calculations and application logic |
-| Tailwind CSS v4 | Styling and responsive layouts |
-| HTML5 | Application structure |
-| Vite | Development server and build tool |
-| Git & GitHub | Version control and source code management |
-| Netlify | Project deployment |
+| Technology        | Purpose                                                        |
+| ----------------- | -------------------------------------------------------------- |
+| React.js          | Building reusable UI components and managing application state |
+| JavaScript (ES6+) | Countdown calculations and application logic                   |
+| Tailwind CSS v4   | Styling and responsive layouts                                 |
+| HTML5             | Application structure                                          |
+| Vite              | Development server and build tool                              |
+| Git & GitHub      | Version control and source code management                     |
+| Netlify           | Project deployment                                             |
 
 ## Project Structure
 
