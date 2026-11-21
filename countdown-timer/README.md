@@ -8,7 +8,7 @@ A responsive launch countdown timer built with React.js and Tailwind CSS. The ap
 
 ## Live Demo
 
-**Live Website:** [project-launch-timer.netlify.app]
+**Live Website:** [https://project-launch-timer.netlify.app/]
 
 **Frontend Mentor Challenge:** https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-
 
